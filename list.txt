@@ -8,10 +8,11 @@
 ! На данный момент нормально работает только в uBlock Origin
 !
 ! --- RU AdList Classic ---
-mail.yandex.com##.Orb-Button_view_brand.Orb-Button_size_xs.Orb-Button
-mail.yandex.com##.PopupAggressivePromoApps-m__root--krypa
-mail.yandex.com##.styles-m__wrapper--3MjMF.sidebarPromo
-mail.yandex.com##a.leftPanelItem-link:nth-of-type(4)
+mail.yandex.ru##.Orb-Button_view_brand.Orb-Button_size_xs.Orb-Button
+mail.yandex.ru##.PopupAggressivePromoApps-m__root--krypa
+mail.yandex.ru##.PopupAggressivePromoApps-m__body--3cZ4U
+mail.yandex.ru##.styles-m__wrapper--3MjMF.sidebarPromo
+mail.yandex.ru##a.leftPanelItem-link:nth-of-type(4)
 yandex.ru##article:nth-of-type(2)
 yandex.ru##.AppFact_aliceChat__gUNof.AliceChat_scroll_common__lfxMc.AliceChat_scroll__t2p_0.AppScroll_wrapper__NYfou
 yandex.ru##.AppWidgetNowcast_container_logo__3siSt
