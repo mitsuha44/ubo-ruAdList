@@ -1,6 +1,13 @@
-! Title: RU web-apps
-! Expires: 2 days
-! # Яндекс погода
+! Title: RU Web Apps
+! Last modified: %timestamp%
+! Expires: 2 days (фильтр обновляется автоматически каждые 2 дня)
+! Homepage: https://forums.lanik.us/viewforum.php?f=102
+!
+! Комбинированная версия списков фильтров RU AdList против рекламы
+! и экспериментальных списков RU AdList CSS Fixes и RU AdList JS Fixes
+! На данный момент нормально работает только в uBlock Origin
+!
+! --- RU AdList Classic ---
 mail.yandex.com##.Orb-Button_view_brand.Orb-Button_size_xs.Orb-Button
 mail.yandex.com##.PopupAggressivePromoApps-m__root--krypa
 mail.yandex.com##.styles-m__wrapper--3MjMF.sidebarPromo
