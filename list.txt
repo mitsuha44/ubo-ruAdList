@@ -18,3 +18,8 @@ yandex.ru##[class*="AppBlogArticlesSuggest_suggest"]
 yandex.ru##[class*="AppWeatherFAQ_section"]
 yandex.ru##[class*="AppAllergyLevels_report"]
 yandex.ru##[class*="AppAllergyDoctors_container"]
+! --- Yandex Mail ---
+mail.yandex.com,mail.yandex.ru##[class*="Modal-Wrapper"]
+mail.yandex.com,mail.yandex.ru##[class*="PopupAggressivePromoApps-m__root"]
+mail.yandex.com,mail.yandex.ru##[class*="Orb-Button_view_brand"]
+mail.yandex.com,mail.yandex.ru##[class*="sidebarPromo"]
