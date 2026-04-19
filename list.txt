@@ -24,4 +24,6 @@ mail.yandex.com,mail.yandex.ru##[class*="PopupAggressivePromoApps-m__root"]
 mail.yandex.com,mail.yandex.ru##[class*="Orb-Button_view_brand"]
 mail.yandex.com,mail.yandex.ru##[class*="sidebarPromo"]
 ! --- T-Bank ---
-Невозможно фильтровать
+! Невозможно фильтровать
+! --- Мой МТС ---
+! Стандартные списки справляются
