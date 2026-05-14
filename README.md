@@ -1,3 +1,5 @@
+# Lists for ublock/brave
+
 RU Web Apps:
 ```
 https://raw.githubusercontent.com/mitsuha44/ubo-ruAdList/main/list.txt
@@ -28,7 +30,7 @@ EasyList:
 https://easylist.to/easylist/easylist.txt
 ```
 
-# All lists for ublock origin
+# All lists line by line
 
 ```
 https://raw.githubusercontent.com/mitsuha44/ubo-ruAdList/main/list.txt
@@ -38,3 +40,7 @@ https://easylist-downloads.adblockplus.org/bitblock.txt
 https://easylist-downloads.adblockplus.org/cntblock.txt
 https://easylist.to/easylist/easylist.txt
 ```
+
+# Max webapp
+
+[Как включить вэб-приложение Макс на андроид](enable-max-webapp.md)
